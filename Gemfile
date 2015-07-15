@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'twitter'
+gem 'userstream'
+gem 'json'
+gem 'pry'
+gem 'nokogiri'
