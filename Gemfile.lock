@@ -60,7 +60,7 @@ GEM
     userstream (1.2.3)
       hashie (~> 1.2.0)
       oauth (~> 0.4.7)
-    yajl-ruby (1.4.1)
+    yajl-ruby (1.4.2)
 
 PLATFORMS
   ruby
